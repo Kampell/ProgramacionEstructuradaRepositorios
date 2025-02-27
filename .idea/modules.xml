@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-ProgramacionSecuencial/01-ProgramacionSecuencial.iml" filepath="$PROJECT_DIR$/01-ProgramacionSecuencial/01-ProgramacionSecuencial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-EstructurasControl/02-EstructurasControl.iml" filepath="$PROJECT_DIR$/02-EstructurasControl/02-EstructurasControl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-Ciclos/03-Ciclos.iml" filepath="$PROJECT_DIR$/03-Ciclos/03-Ciclos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Programacion Estructurada Repositorios.iml" filepath="$PROJECT_DIR$/.idea/Programacion Estructurada Repositorios.iml" />
+    </modules>
+  </component>
+</project>
